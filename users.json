@@ -1,0 +1,41 @@
+{
+    "user1": {
+      "id":1,
+      "company name:":"Apple",
+      "position":"Chief Executive Officer",
+      "location":"Davao",
+      "employee":"Ken Saniel"
+    },
+  
+    "user2": {
+        "id":2,
+        "company name:":"Amazon",
+        "position":"President",
+        "location":"Tagum",
+        "employee":"Mark Par"
+      },
+  
+      "user3": {
+        "id":3,
+        "company name:":"Nike",
+        "position":"Executive Vice President",
+        "location":"Calinan",
+        "employee":"Joel Andamon"
+      },
+
+    "user4": {
+      "id":4,
+      "company name:":"Starbucks",
+      "position":"Senior Vice President",
+      "location":"Mati",
+      "employee":"Mark Gargoles"
+    },
+
+    "user5": {
+        "id":5,
+        "company name:":"Adobe",
+        "position":"Vice President",
+        "location":"Compostela",
+        "employee":"Helbert Ancheta"
+      }
+  }
